@@ -9,7 +9,7 @@ Demographic Information: Age, Gender, Partner, Dependents
 
 Customer Account Information: Tenure, Contract, Payment Method, Paperless Billing, Monthly Charge and Total Charge
 
-Services Used – Phone, Multiple Lines, Internet, Online Security, Online Backup, Device Protection, Tech Support, and Streaming TV and Movies
+Services Used: Phone, Multiple Lines, Internet, Online Security, Online Backup, Device Protection, Tech Support, and Streaming TV and Movies
 
 The dataset has information about 7043 customers and 21 features.
 
