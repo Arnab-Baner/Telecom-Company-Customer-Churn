@@ -6,7 +6,9 @@ The goal of the Project is to understand the factors impact the churning of cust
 The dataset is of telecom company and includes customer information and whether a particular customer has churned or not. It includes three kinds of information about the customer.
 
 Demographic Information: Age, Gender, Partner, Dependents
+
 Customer Account Information: Tenure, Contract, Payment Method, Paperless Billing, Monthly Charge and Total Charge
+
 Services Used – Phone, Multiple Lines, Internet, Online Security, Online Backup, Device Protection, Tech Support, and Streaming TV and Movies
 
 The dataset has information about 7043 customers and 21 features.
