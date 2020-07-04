@@ -40,9 +40,13 @@ The dataset has information about 7043 customers and 21 features.
 ## Models applied and their accuracies
 
 Logistic Regression: 77%
+
 K Nearest Neighbors: 75%
+
 Support Vector Machines: 77%
+
 Decision Trees: 69%
+
 Random Forest: 78%
 
 ### The Random Forest was the best predictor of the customer churn with an accuracy of 78% on the test set
