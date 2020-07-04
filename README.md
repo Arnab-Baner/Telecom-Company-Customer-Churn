@@ -15,27 +15,27 @@ The dataset has information about 7043 customers and 21 features.
 
 ## Results obtained from Exploratory Data Analysis:
 
-1.Since the customers who do not use internet service provide very little revenue to the company, they were excluded from the analysis.
+1. Since the customers who do not use internet service provide very little revenue to the company, they were excluded from the analysis.
 
-2.Out of a total of 5512 customers 1756 which is 31.85% have churned.
+2. Out of a total of 5512 customers 1756 which is 31.85% have churned.
 
-3.We found out gender does not play a role in predicting whether a customer will churn or not because more or less equal number of customers have churned of each gender.
+3. We found out gender does not play a role in predicting whether a customer will churn or not because more or less equal number of customers have churned of each gender.
 
-4.Customers who have a longer tenure with the company churned less compared to customers with lesser tenure. Similar resutls were found with the length of contracts.
+4. Customers who have a longer tenure with the company churned less compared to customers with lesser tenure. Similar resutls were found with the length of contracts.
 
-5.Customers who spend less are more likely to churn compared to customers who spend more. This can be attributed to the spending ability of the customer and how many products     the customer is using.
+5. Customers who spend less are more likely to churn compared to customers who spend more. This can be attributed to the spending ability of the customer and how many products      the customer is using.
 
-6.Customers who use electronic checks and paperless billing churn more compared to others.
+6. Customers who use electronic checks and paperless billing churn more compared to others.
 
-7.We found out that more support the user subscribes to of the telecom company the more likely he is to stick to the telecomm company.
+7. We found out that more support the user subscribes to of the telecom company the more likely he is to stick to the telecomm company.
 
-8.Customers who are independent are more likely to churn. This can be attributed to the financial stability of the customer.
+8. Customers who are independent are more likely to churn. This can be attributed to the financial stability of the customer.
 
-9.Online Backup and Device Protection turned out to be the most frequently bought support sytems by the customers.
+9. Online Backup and Device Protection turned out to be the most frequently bought support sytems by the customers.
 
-10.There is not much significant difference in total charges between customers who only watched tv versus customers who only watched movies.
+10. There is not much significant difference in total charges between customers who only watched tv versus customers who only watched movies.
 
-11.More revenue is obtained from partners compared to single customers.
+11. More revenue is obtained from partners compared to single customers.
 
 ## Models applied and their accuracies
 
